@@ -1,0 +1,37 @@
+body {
+    background-color: #1e1e1e;
+    color: white;
+  }
+  
+  .container {
+    background-color: #2c2c2c;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+    max-width: 400px;
+    width: 90%;
+  }
+  
+  input {
+    background-color: #3c3c3c;
+    color: white;
+    border: none;
+  }
+  
+  .btn-custom {
+    background-color: #FFC107;
+    color: black;
+    font-weight: bold;
+    border: none;
+  }
+  
+  .btn-custom:hover {
+    background-color: #e0a800;
+  }
+  
+  #resultado {
+    background-color: #3c3c3c;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
